@@ -3,7 +3,7 @@ Hi there! I'm **Caliel Feijó**, Visual Artist and Systems Analysis and Developm
 - Pursuing A.D. in **Systems Analysis and Development** at **CESAR School**.
 - Pursuing a Bachelor's Degree (Licentiate) in **Visual Arts** at **UFPE**.
 
-❤️: graphic design, traditional art, music, front-end and back-end development, UI/UX design.
+❤️: graphic design, UI/UX design, project management, traditional art, DJing.
 
 🔍 Learn more about me:
 - [LinkedIn](https://www.linkedin.com/in/calielfeijo/)
@@ -12,5 +12,5 @@ Hi there! I'm **Caliel Feijó**, Visual Artist and Systems Analysis and Developm
 
 ## Technologies and tools 🛠️
 
-📚 Currently deepening my knowledge in Java and Python.<br>
-🖌️ I am also focusing on front-end development and graphic design.
+📚 Currently deepening my knowledge in C and Cybersecurity.<br>
+🖌️ I am also focusing on front-end development.

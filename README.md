@@ -7,7 +7,7 @@ Hi there! I'm **Caliel Feijó**, Visual Artist and Systems Analysis and Developm
 
 🔍 Learn more about me:
 - [LinkedIn](https://www.linkedin.com/in/calielfeijo/)
-- [Website](https://www.calielfeijo.me/)
+- [Website](https://calielfeijo.vercel.app/)
 - [Curriculum](./docs/cali-curriculum.pdf)
 
 ## Technologies and tools 🛠️
